@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.645c0892.css",
-    "main.js": "/static/js/main.00b731f7.js",
+    "main.css": "/static/css/main.0ed81237.css",
+    "main.js": "/static/js/main.769e362c.js",
     "static/css/903.439880bd.chunk.css": "/static/css/903.439880bd.chunk.css",
     "static/js/903.6309dc22.chunk.js": "/static/js/903.6309dc22.chunk.js",
     "static/css/430.6debc0a8.chunk.css": "/static/css/430.6debc0a8.chunk.css",
@@ -49,7 +49,7 @@
     "static/js/542.274e1c59.chunk.js": "/static/js/542.274e1c59.chunk.js",
     "static/js/473.6d5eea03.chunk.js": "/static/js/473.6d5eea03.chunk.js",
     "static/js/385.be9fc9a0.chunk.js": "/static/js/385.be9fc9a0.chunk.js",
-    "static/js/170.6d41dbba.chunk.js": "/static/js/170.6d41dbba.chunk.js",
+    "static/js/170.53f29d15.chunk.js": "/static/js/170.53f29d15.chunk.js",
     "static/js/234.ce6d9eea.chunk.js": "/static/js/234.ce6d9eea.chunk.js",
     "static/js/671.97231b46.chunk.js": "/static/js/671.97231b46.chunk.js",
     "static/js/950.05e8d9d8.chunk.js": "/static/js/950.05e8d9d8.chunk.js",
@@ -63,7 +63,7 @@
     "static/js/610.dfa7d953.chunk.js": "/static/js/610.dfa7d953.chunk.js",
     "static/js/630.6f7a0ffd.chunk.js": "/static/js/630.6f7a0ffd.chunk.js",
     "static/js/174.5a4fd70c.chunk.js": "/static/js/174.5a4fd70c.chunk.js",
-    "static/js/302.16ba3419.chunk.js": "/static/js/302.16ba3419.chunk.js",
+    "static/js/302.1e43a3c0.chunk.js": "/static/js/302.1e43a3c0.chunk.js",
     "static/js/440.98af957c.chunk.js": "/static/js/440.98af957c.chunk.js",
     "static/js/900.09084759.chunk.js": "/static/js/900.09084759.chunk.js",
     "static/js/784.f70065f8.chunk.js": "/static/js/784.f70065f8.chunk.js",
@@ -75,11 +75,11 @@
     "static/media/avatar-13.png": "/static/media/avatar-13.b2622ad99e65c435fc40.png",
     "static/media/2.jpg": "/static/media/2.0c06e43dc16bee6cdfed.jpg",
     "index.html": "/index.html",
-    "static/media/arrow_left.svg": "/static/media/arrow_left.db6e2d88c7c35a775ce4.svg",
-    "static/media/arrow_right.svg": "/static/media/arrow_right.f7c6ac6d310d3b82f0a0.svg"
+    "static/media/arrow_left.svg": "/static/media/arrow_left.2b063d13b9ef574cd7d1.svg",
+    "static/media/arrow_right.svg": "/static/media/arrow_right.0897f985cc5c7537b31d.svg"
   },
   "entrypoints": [
-    "static/css/main.645c0892.css",
-    "static/js/main.00b731f7.js"
+    "static/css/main.0ed81237.css",
+    "static/js/main.769e362c.js"
   ]
 }
