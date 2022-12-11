@@ -5,7 +5,7 @@ const app = express();
 const cors = require('cors');
 app.use(cors({ origin: '*' }));
 
-app.use('*', express.static(path.join(process.cwd(), 'build')));
+app.use('*', express.static(path.join(process.cwd(), '/index.html')));
 
 const httpServer = require('http').createServer(app);
 
