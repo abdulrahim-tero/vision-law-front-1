@@ -1,0 +1,12 @@
+{
+	"name": "utils",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chalk": "^4.*",
+		"winston": "^3.8.2"
+	}
+}
